@@ -1,0 +1,19 @@
+{
+  "name": "repositorios",
+  "version": "1.0.0",
+  "description": "El primer proyecto",
+  "main": "\u001b[A\u001b[A\u001b[B\u001b[Bindex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1Sorrow/miProyecto.git"
+  },
+  "author": "D1Sorrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1Sorrow/miProyecto/issues"
+  },
+  "homepage": "https://github.com/D1Sorrow/miProyecto#readme"
+}
